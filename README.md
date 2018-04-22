@@ -7,4 +7,7 @@ http://www.myreaders.info/html/artificial_intelligence.html <br>
 http://www.myreaders.info/assets/applets/09_Genetic_Algorithms.pdf <br>
 Artificial Intelligence: Principles and Techniques (Stanford / Autumn 2016-201) <br>
 https://web.stanford.edu/class/cs221/2017/#coursework <br>
+
+# WordNet
+
 </div>
