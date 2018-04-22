@@ -9,5 +9,6 @@ Artificial Intelligence: Principles and Techniques (Stanford / Autumn 2016-201) 
 https://web.stanford.edu/class/cs221/2017/#coursework <br>
 
 # WordNet
-
+Open Multilingual Wordnet <br>
+http://compling.hss.ntu.edu.sg/omw/ <br>
 </div>
