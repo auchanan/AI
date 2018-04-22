@@ -11,4 +11,6 @@ https://web.stanford.edu/class/cs221/2017/#coursework <br>
 # WordNet
 Open Multilingual Wordnet <br>
 http://compling.hss.ntu.edu.sg/omw/ <br>
+Wordnets in the World
+http://globalwordnet.org/wordnets-in-the-world/
 </div>
