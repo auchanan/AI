@@ -120,22 +120,22 @@ Educational blog about Data Science, Business Analytics and Artificial Intellige
 https://goo.gl/qdhngH <br>
 Data Science Central <br>
 https://www.datasciencecentral.com/ <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+แนะนำของฟรี สำหรับคนหัดเขียน Python & R เพื่อทำ Data Science<br>
+https://www.growthbee.com/data-scientist-workbench/ <br>
+Applied Deep Learning - Part 2: Real World Case Studies<br>
+https://goo.gl/7VkLTY<br>
+Towards Data Science Sharing concepts, ideas, and codes<br>
+https://towardsdatascience.com/ <br>
+Kaggle <br>
+https://www.kaggle.com/competitions <br>
+The Official Blog of Kaggle.com<br>
+http://blog.kaggle.com/category/data-science-news/ <br>
+Deep Learning An MIT Press book<br>
+http://www.deeplearningbook.org/ <br>
+Listendata<br>
+https://www.listendata.com/search/label/Infographics <br>
+YouCANanalytics<br>
+http://ucanalytics.com/blogs/ <br>
 <br>
 <br>
 <br>
