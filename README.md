@@ -94,6 +94,45 @@ http://devdocs.io/statsmodels/<br>
 
 # Coding Data Science
 https://gitter.im/explore/tags/curated:data-science<br>
+
+# Data Science
+Category: Data Science <br>
+https://blog.udacity.com/category/data-science <br>
+Get Started with Data Science by Analyzing Traffic Data from California Highways <br>
+https://www.slideshare.net/AerospikeDB/data-science-based-on-traffic-data-final <br>
+Statistics: Is This Big Data’s Biggest Hurdle? <br>
+https://www.business2community.com/big-data/statistics-big-datas-biggest-hurdle-01214657<br>
+Anatomy of a Data Analyst Resume<br>
+http://www.northeastern.edu/levelblog/2016/05/10/anatomy-data-analyst-resume/ <br>
+Big Data Analytics <br>
+https://www.slideshare.net/GhulamImaduddin1/big-data-analytics-58553692 <br>
+Deep Learning <br>
+https://snips.ai/content/intro-to-ai/#privacy <br>
+KDnuggets<br>
+https://www.kdnuggets.com/ <br>
+Data Science for Social Good <br>
+https://dssg.uchicago.edu/resources/ <br>
+Analytics Trainning<br>
+http://analyticstraining.com/ <br>
+Publisher<br>
+http://stepupanalytics.com/ <br>
+Educational blog about Data Science, Business Analytics and Artificial Intelligence <br>
+https://goo.gl/qdhngH <br>
+Data Science Central <br>
+https://www.datasciencecentral.com/ <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
