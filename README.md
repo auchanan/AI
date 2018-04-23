@@ -91,7 +91,9 @@ https://radimrehurek.com/gensim/index.html<br>
 
 # Coding
 http://devdocs.io/statsmodels/<br>
-<br>
+
+#Coding Data Science
+https://gitter.im/explore/tags/curated:data-science<br>
 <br>
 <br>
 <br>
