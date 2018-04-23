@@ -94,7 +94,7 @@ http://devdocs.io/statsmodels/<br>
 CODE Q&A <br>
 https://code.i-harness.com/en <br>
 
-# Coding Data Science
+# communities thrive: Coding Data Science
 https://gitter.im/explore/tags/curated:data-science<br>
 
 # Data Science
