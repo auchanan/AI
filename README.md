@@ -138,8 +138,9 @@ Listendata<br>
 https://www.listendata.com/search/label/Infographics <br>
 YouCANanalytics<br>
 http://ucanalytics.com/blogs/ <br>
-<br>
-<br>
+
+NLP <br>
+https://gerardnico.com/natural_language/term_document <br>
 <br>
 <br>
 <br>
